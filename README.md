@@ -1,9 +1,7 @@
 # pymaceuticals-challenge
 # Module 5 Challenge
 
-I used class material example exercises, CHatGPT, and Expert LEarning Asistant to ask a variety of questions as I developed my code.
-
-
+I used class material example exercises, ChatGPT, conversations with classmate Kiet Hoang, and Expert Learning Asistant to ask a variety of questions as I developed my code.
 
 What good is data without a good plot to tell the story?
 
